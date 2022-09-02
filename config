@@ -49,6 +49,9 @@ bindsym $mod+Return exec i3-sensible-terminal
 # kill focused window
 bindsym $mod+q kill
 
+# open firefox
+bindsym $mod+f exec firefox
+
 # screenshot
 bindsym $mod+Shift+p exec flameshot gui
 
